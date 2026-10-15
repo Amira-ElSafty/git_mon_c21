@@ -7,6 +7,8 @@ class HomeScreen extends StatelessWidget {
       appBar: AppBar(
         title: Text('hello'),
       ),
+        backgroundColor: Colors.orange,
+
     );
   }
 }
